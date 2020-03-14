@@ -29,3 +29,5 @@ date = date.apply(lambda x: (time.mktime(datetime.datetime.now().timetuple())
 x_data.insert(1,'date',date)
 ```
 ## Visualising the data
+![alt text](images/corr.png)
+![alt text](images/heatmap.png)
